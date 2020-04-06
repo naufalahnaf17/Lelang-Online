@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1054415775435",
+    "firebase_url": "https://lelang-aa2fa.firebaseio.com",
+    "project_id": "lelang-aa2fa",
+    "storage_bucket": "lelang-aa2fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054415775435:android:1642389c5f8cab763f1d4e",
+        "android_client_info": {
+          "package_name": "com.example.lelangonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054415775435-ekf5hfnspk2gk33b9fikrjgihpfuqiqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc4FByl7RdTk_WXx77tu1ptiB2C4lEgjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054415775435-ekf5hfnspk2gk33b9fikrjgihpfuqiqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
