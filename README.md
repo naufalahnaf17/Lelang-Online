@@ -1,16 +1,24 @@
-# lelangonline
+# Lelang Online
 
-A Simple Lelang Online App With Flutter
+Aplikasi Sederhana Tentang Lelang Online Menggunakan Flutter + Firebase Untuk Menyelesaikan Tugas UKK 
 
-## Getting Started
+## ScreenShoot Aplikasi
+![ss_tiga](https://user-images.githubusercontent.com/49228747/78587441-23742400-7867-11ea-9a29-504c7be65883.PNG)
+![ss_satu](https://user-images.githubusercontent.com/49228747/78587474-325ad680-7867-11ea-893e-ab03382a9d62.PNG)
+![ss_dua](https://user-images.githubusercontent.com/49228747/78587514-41da1f80-7867-11ea-80a2-bb7e49bf7ed7.PNG)
 
-This project is a starting point for a Flutter application.
+## Fitur Aplikasi
+* react-navigation
+* native-base
+* react-native-webview
 
-A few resources to get you started if this is your first Flutter project:
+## Library Yang Di Gunakan
+* react-navigation
+* native-base
+* react-native-webview
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Author
+* Naufal Ahnaf (21)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
